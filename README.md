@@ -1,1 +1,2 @@
-# graphical_reports_vb
+# Hermes graphical reports
+Contains vb.net code for modulating graphical designs
