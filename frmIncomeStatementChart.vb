@@ -236,7 +236,7 @@ Public Class frmIncomeStatementChart
                                 End If
                             Next
                         Else
-                            'Set the variables to 0 when there are no acquired data
+                            ''Set the variables to 0 when there are no acquired data
                             otherIncome = 0
                             sales = 0
                             cost_of_sales = 0
